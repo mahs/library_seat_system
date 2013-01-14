@@ -1,0 +1,5 @@
+13 一月 2013 14:41:00,595 INFO  ~ Starting D:\StudyFolder\javaProject\library_seat_system\.
+13 一月 2013 14:41:01,985 WARN  ~ You're running Play! in DEV mode
+13 一月 2013 14:41:06,121 INFO  ~ Connected to jdbc:mysql://localhost:3306/library_seat_manage?useUnicode=yes&characterEncoding=UTF-8&connectionCollation=utf8_general_ci
+13 一月 2013 14:41:06,816 INFO  ~ Guice injector created: library.seat.manage.config.GuicyDummy
+13 一月 2013 14:41:07,187 INFO  ~ Application 'library_seat_system' is now started !
